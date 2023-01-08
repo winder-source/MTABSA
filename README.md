@@ -14,4 +14,5 @@ The preprocess codes are in `data_preprocess_semeval.py` and `data_preprocess_tw
 Run:
 `./run.sh`
 
+## Cite
 submitted to Knowledge-based Systems
